@@ -95,6 +95,13 @@ Every commit message must be structured as follows:
 
 The scope provides context for the change, usually naming the affected component or file path (e.g., `(xss)`, `(repo)`, `(ui)`, `(auth), (nmap)`).
 
+---
+
+## Verified Commits (Mandatory)
+Ensure that all your commits have verified signatures. If it is not already setup, please refer the official [documentations](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification).
+
+---
+
 ## Tips for Hacktoberfest Contributors
 - Check for issues labeled hacktoberfest, good first issue, or help wanted.
 - Read the issue carefully before claiming it.
